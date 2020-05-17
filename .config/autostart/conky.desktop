@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System;Monitor;
+Comment[en_AU]=
+Comment=
+Exec=conky
+GenericName[en_AU]=
+GenericName=
+Icon=conky-logomark-violet
+MimeType=
+Name[en_AU]=conky
+Name=conky
+Path=
+StartupNotify=false
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
